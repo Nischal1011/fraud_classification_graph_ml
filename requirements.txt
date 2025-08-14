@@ -1,0 +1,10 @@
+kagglehub
+pandas
+plotly
+networkx
+matplotlib
+scipy
+seaborn
+infomap
+infomap
+scikit-learn
