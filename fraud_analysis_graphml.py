@@ -109,7 +109,7 @@ def draw_network(
         ),
     )
 
-    return fig.show()
+    return fig
 
 
 if __name__ == "__main__":
